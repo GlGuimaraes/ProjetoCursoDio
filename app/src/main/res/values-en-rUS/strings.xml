@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AppCursoDio</string>
-    <string name="verse">But those who wait on the LORD will renew their strength and mount up with wings like eagles; they will run and not be weary; they will walk and not be weary.</string>
-    <string name="biblePassage">Isaiah 40:29-31</string>
+    <string name="biblePassage">But those who wait on the LORD will renew their strength and mount up with wings like eagles; they will run and not be weary; they will walk and not be weary.</string>
+    <string name="verse">Isaiah 40:29-31</string>
 </resources>

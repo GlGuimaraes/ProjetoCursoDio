@@ -19,7 +19,7 @@
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"
-            android:text="@string/verse"
+            android:text="@string/biblePassage"
             android:textColor="#5f3711"
             android:textSize="20sp" />
 
@@ -29,7 +29,7 @@
             android:layout_below="@id/verse"
             android:layout_marginEnd="30dp"
             android:layout_alignParentRight="true"
-            android:text="@string/biblePassage"
+            android:text="@string/verse"
             android:textColor="#5f3711"
             android:textSize="18sp" />
     </RelativeLayout>
